@@ -10,3 +10,9 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Proyecto Anime
+Este es un proyecto de ejemplo que utiliza una API de anime para mostrar información.
+## Enlace de Despliegue
+Puedes ver el proyecto en vivo aquí: [anime-jby6nu9dy-basis-projects-26965a1a.vercel.app](https://anime-jby6nu9dy-basis-projects-26965a1a.vercel.app)
+### API utilizada
+- [anime-api-bay-delta.vercel.app](https://anime-api-bay-delta.vercel.app)
